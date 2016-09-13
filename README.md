@@ -1,2 +1,3 @@
 # hello-world
-This is a test to complete the instructions from the hello world guide.
+Hey, it's Ashish
+I'm a student and I'm learning how to use GitHub.
